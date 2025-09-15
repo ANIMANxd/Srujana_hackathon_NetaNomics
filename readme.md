@@ -20,7 +20,7 @@ Every year, billions of rupees are disbursed through the Members of Parliament L
 
 For journalists, researchers, and citizens, trying to follow the money is a near-impossible manual task. This creates a massive **transparency gap** where public accountability should be, leaving critical questions unanswered: Is the money being spent on the right things? Is it a fair price? Or is it being wasted?
 
-![National Scorecard Screenshot](https://i.imgur.com/w2Q4Y8M.png)
+
 
 ## 2. Our Solution: An End-to-End AI Pipeline
 
