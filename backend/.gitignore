@@ -1,0 +1,39 @@
+# --- Python Virtual Environment ---
+# Never commit your virtual environment folder.
+venv/
+env/
+.venv/
+.env/
+
+# --- Python Cache & Bytecode ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Environment & Secret Files (CRITICAL) ---
+# Contains your database URL and Google API Key. NEVER commit this.
+.env
+# Contains your Google Cloud service account key. NEVER commit this.
+gcp-credentials.json
+
+# --- Build & Distribution Artifacts ---
+build/
+dist/
+*.egg-info/
+*.egg
+
+# --- Application-Generated Folders ---
+# These folders are created when your scripts run. They should not be in version control.
+processed_reports/
+scraped_reports/
+
+# --- IDE & Editor Config ---
+.vscode/
+.idea/
+*.DS_Store
+
+# --- Test Artifacts ---
+.pytest_cache/
+.coverage
+htmlcov/
